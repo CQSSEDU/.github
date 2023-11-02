@@ -1,7 +1,7 @@
 
   <h1 align="center">
     <br>
-    <a href=""><img src="https://github.com/Canada-Qingdao-Secondary-School/.github/blob/main/profile/image/CQSS-Logo.png" alt="CQSS" width="200"></a>
+    <a href=""><img src="https://img.icons8.com/nolan/96/school.png" alt="CQSS" width="150"></a>
     <br>
     Welcome to the base camp of CQSS!
   </h1>
@@ -23,13 +23,5 @@
 
   It is also a place for us to show the wonderful in-class homework! :fireworks:
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+  # Acknowledgment
+  - <a  href="https://icons8.com/icon/44842/school">School</a> icon by <a href="https://icons8.com">Icons8</a>
