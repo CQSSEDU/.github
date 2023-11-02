@@ -9,7 +9,7 @@
 
   
   # Who we are?
-  <img src="https://github.com/Canada-Qingdao-Secondary-School/.github/blob/main/profile/image/BC%20Cert.jpg" align="right" alt="Size Limit logo by Anton Lovchikov" width="120" height="120">
+  <img src="https://github.com/Canada-Qingdao-Secondary-School/.github/blob/main/profile/image/BC%20Cert.png" align="right" alt="Size Limit logo by Anton Lovchikov" width="145" height="135">
   We are students:school_satchel: from Canada Qingdao Secondary School, an international school registered in <a href="https://en.wikipedia.org/wiki/British_Columbia" title="Wikipedia of BC, Canada">British Columbia</a> , Canada.
   
   The school is a part of the BC Offshore School Program, which enables schools outside Canada to offer the B.C. education program.
