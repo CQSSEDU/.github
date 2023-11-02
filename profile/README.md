@@ -1,7 +1,7 @@
 
   <h1 align="center">
     <br>
-    <a href=""><img src="https://github.com/Canada-Qingdao-Secondary-School/.github/blob/main/profile/image/CQSS%20LOGO.jpg" alt="CQSS" width="200"></a>
+    <a href=""><img src="https://github.com/Canada-Qingdao-Secondary-School/.github/blob/main/profile/image/CQSS-Logo.png" alt="CQSS" width="200"></a>
     <br>
     Welcome to the base camp of CQSS!
   </h1>
