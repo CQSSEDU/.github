@@ -5,7 +5,7 @@
     <br>
     Welcome to the base camp of CQSS!
   </h1>
-  <h4 align="center"><i>Organization created and managed by the Dept. of Media and Technology (DoMT) of the Student Council.</i></h4>
+  <h4 align="center"><i>Organization created and managed by the Ministry of Media (MoM) of the Student Council.</i></h4>
 
   
   # Who we are?
