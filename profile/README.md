@@ -17,7 +17,7 @@
   But we are **located** in <a href="https://en.wikipedia.org/wiki/Qingdao" title="Wikipedia of Qingdao, China">Qingdao</a>, a lovely city built near the mountain and the sea in north-east China.
   
   # What will we do here?
-  The DoMT of the Student Council will be responsible for the management and development of the **CQSS Website**:computer: deployed on Github Page, most of the work is done by [@EricZhang5077](https://github.com/EricZhang5077).
+  The MoM of the Student Council will be responsible for the management and development of the **CQSS Website**:computer: deployed on Github Page, most of the work is done by [@EricZhang5077](https://github.com/EricZhang5077).
   
   And other related projects, of course.
 
