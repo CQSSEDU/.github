@@ -17,7 +17,7 @@
   But we are **located** in <a href="https://en.wikipedia.org/wiki/Qingdao" title="Wikipedia of Qingdao, China">Qingdao</a>, a lovely city built near the mountain and the sea in north-east China.
   
   # What will we do here?
-  The MoM of the Student Council will be responsible for the management and development of the **CQSS Website**:computer: deployed on Github Page, most of the work is done by [@EricZhang5077](https://github.com/EricZhang5077) and [@BoyaoLeviJi](https://github.com/BoyaoLeviJi).
+  The MoM of the Student Council will be responsible for the management and development of the **CQSS Website**:computer: deployed on Github Page, most of the work is done by [@Eric Zhang](https://github.com/PZV5077) and [@LeviJi](https://github.com/BoyaoLeviJi).
   
   And other related projects, of course.
 
@@ -26,8 +26,9 @@
   # Contact us
   If you are a current CQSS student, and you are interested in Computer Science, feel free to contact us by email. We can discuss about the website and anything about code :sunglasses:!
  
-  If you are interested in joining CQSS, please contact our Admissions Officer, you can find the information on <a href= "http://www.qd09.qdedu.net/">  this website </a>
+  If you are interested in joining CQSS, please contact our Admissions Team, you can find the information on <a href= "http://www.qd09.qdedu.net/">  this website </a>
   
   
   # Acknowledgment
   - <a  href="https://icons8.com/icon/44842/school">School</a> icon by <a href="https://icons8.com">Icons8</a>
+  
